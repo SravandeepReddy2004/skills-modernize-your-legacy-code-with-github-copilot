@@ -80,7 +80,7 @@ To preview the diagrams, make sure your Markdown viewer supports Mermaid (e.g., 
 
 ### 1. Data Flow Diagram (DFD)
 
-```mermaid
+
 flowchart TD
     User[User Interface (MainProgram)]
     Ops[Operations Module]
