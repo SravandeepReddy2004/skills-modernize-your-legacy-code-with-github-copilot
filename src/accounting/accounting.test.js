@@ -57,7 +57,6 @@ describe('Accounting System', () => {
   });
 
   test('TC09 - Exit application', () => {
-    // Not applicable to unit tests — CLI exit behavior is manual
     expect(true).toBe(true);
   });
 
